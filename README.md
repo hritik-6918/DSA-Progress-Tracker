@@ -1,3 +1,5 @@
+![screencapture-dsa-progress-tracker-hritik6918-netlify-app-2024-12-07-16_14_49](https://github.com/user-attachments/assets/51e83443-85ee-49c5-ba3c-2ed4d6e3590f)
+
 # DSA Progress Tracker
 
 A beautiful, dark-themed web application to track your progress on Data Structures and Algorithms problems. This application seamlessly integrates with a Notion workspace for detailed problem tracking and notes.
@@ -81,8 +83,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Deployment
 
-The application is deployed on Netlify and can be accessed at [https://stirring-starburst-29ceeb.netlify.app](https://stirring-starburst-29ceeb.netlify.app)
+The application is deployed on Netlify and can be accessed at [https://dsa-progress-tracker-hritik6918.netlify.app/](https://dsa-progress-tracker-hritik6918.netlify.app/)
 
 ---
 
-Built with ❤️ for DSA enthusiasts
+Built with ❤️ by hritik-6918
